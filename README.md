@@ -7,6 +7,8 @@
 
 两个 Agent 都不能审批、上传或发布。
 
+使用完整工作流时，先安装并验证本仓库的两个 Agent，再安装 [xhs-fashion-qc-publish](https://github.com/znnw4m6k7k-dotcom/xhs-fashion-qc-publish)。
+
 ## 在 Codex 聊天窗口安装
 
 把下面一整句话发送给 Codex：
